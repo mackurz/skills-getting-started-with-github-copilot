@@ -1,0 +1,1 @@
+Make sure we use `pytest` and add it to `requirements.txt` file
