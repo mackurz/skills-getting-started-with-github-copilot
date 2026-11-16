@@ -50,30 +50,6 @@ activities = {
         "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
         "max_participants": 20,
         "participants": []
-    },
-    "Art Club": {
-        "description": "Explore drawing, painting, and other visual art techniques",
-        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
-        "max_participants": 15,
-        "participants": []
-    },
-    "Drama Club": {
-        "description": "Develop acting skills and put on stage performances",
-        "schedule": "Fridays, 3:30 PM - 5:00 PM",
-        "max_participants": 20,
-        "participants": []
-    },
-    "Debate Club": {
-        "description": "Research topics and practice persuasive argumentation",
-        "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
-        "max_participants": 16,
-        "participants": []
-    },
-    "Science Club": {
-        "description": "Explore scientific ideas through discussions and experiments",
-        "schedule": "Thursdays, 3:30 PM - 4:30 PM",
-        "max_participants": 18,
-        "participants": []
     }
 }
 
